@@ -19,3 +19,11 @@ end
 ```
 
 Please provide at least the above fields. Notice that every information provided here - plus some other generated data - will be publicly available under `GET /info`, so you can augment it with custom attributes. 
+
+> `mumukit` generates more data about your runner based on your customizations. In a terminal - or browser - hit the following URL... 
+> 
+>  ```bash
+> curl http://prolog.runners.mumuki.io/info
+> ```
+> 
+> and then go on. 
