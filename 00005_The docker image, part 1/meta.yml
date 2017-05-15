@@ -1,0 +1,16 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: 
+manual_evaluation: false
+choices:
+- value: "...run code in your technology"
+  checked: true
+- value: "...run tests in your technology"
+  checked: true
+- value: "...run ruby and your runner"
+  checked: false

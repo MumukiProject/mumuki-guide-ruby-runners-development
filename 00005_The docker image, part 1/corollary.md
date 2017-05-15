@@ -1,0 +1,1 @@
+Keep in mind that the `Mumukit::Templates::FileHook` will spawn a new docker process for each request. So it must be as fast as possible! :running:
