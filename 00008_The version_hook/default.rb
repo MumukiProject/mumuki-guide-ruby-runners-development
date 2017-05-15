@@ -1,0 +1,3 @@
+module ...VersionHook
+  VERSION = ...
+end
