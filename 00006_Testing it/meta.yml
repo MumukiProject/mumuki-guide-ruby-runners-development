@@ -1,10 +1,14 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
+editor: multiple_choice
 type: problem
 extra_visible: false
-language: 
+language: text
 teacher_info: 
 manual_evaluation: false
-choices: []
+choices:
+- value: Unit Tests
+  checked: true
+- value: Integration Tests
+  checked: true
