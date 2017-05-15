@@ -1,4 +1,4 @@
-describe 'test_hook for foobar' do 
+describe '' do 
   it("you should declare a FoobarTestHook class") do 
     expect { FoobarTestHook }.to_not raise_error
   end
