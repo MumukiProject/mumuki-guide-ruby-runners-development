@@ -13,7 +13,7 @@ Mumukit.configure do |config|
 end
 ```
 
-If you have created the `create.sh` script, we have already done it for you :wink:
+If you have used `mumukit-bootstrap`'s `create.sh` script, we have already done it for you :wink:
 
 But, what should contain your dockerfile? Simple put, it needs to provide a complete environment to run your technology and their tests. In other words, your docker container must be able to execute the command line returned by `command_line(filename)` in your `test_hook.rb`. 
 
