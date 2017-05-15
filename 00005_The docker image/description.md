@@ -21,7 +21,7 @@ For example, this is a `Dockerfile` that allows you to execute `ruby` + `rspec` 
 
 ```Dockerfile
 FROM ruby:2.2
-MAINTAINER Franco Leonardo Bulgarelli
+MAINTAINER Mumuki Project
 RUN gem install rspec --version '=3.5'
 ```
 
