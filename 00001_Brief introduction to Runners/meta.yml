@@ -1,0 +1,16 @@
+---
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+language: 
+teacher_info: 
+manual_evaluation: false
+choices:
+- value: "...a docker image"
+  checked: false
+- value: "...an HTTP server"
+  checked: true
+- value: "...a command-line program"
+  checked: false
