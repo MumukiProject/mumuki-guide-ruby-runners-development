@@ -5,10 +5,10 @@ editor: multiple_choice
 type: problem
 extra_visible: false
 language: text
-teacher_info: 
 manual_evaluation: false
 choices:
 - value: Unit Tests
   checked: true
 - value: Integration Tests
   checked: true
+name: Testing it

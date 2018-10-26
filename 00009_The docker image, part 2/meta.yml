@@ -5,10 +5,10 @@ editor: single_choice
 type: problem
 extra_visible: false
 language: text
-teacher_info: 
 manual_evaluation: false
 choices:
 - value: 'Yes'
   checked: true
 - value: 'No'
   checked: false
+name: The docker image, part 2

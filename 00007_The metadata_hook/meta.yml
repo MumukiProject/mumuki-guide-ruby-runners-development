@@ -4,7 +4,6 @@ layout: input_bottom
 editor: hidden
 type: problem
 extra_visible: false
-language: 
-teacher_info: 
 manual_evaluation: false
 choices: []
+name: The metadata_hook

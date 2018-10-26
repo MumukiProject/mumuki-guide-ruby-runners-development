@@ -5,7 +5,6 @@ editor: single_choice
 type: problem
 extra_visible: false
 language: text
-teacher_info: 
 manual_evaluation: false
 choices:
 - value: "...a Rails application"
@@ -14,3 +13,4 @@ choices:
   checked: false
 - value: "...a ruby gem"
   checked: true
+name: The project layout

@@ -5,7 +5,6 @@ editor: single_choice
 type: problem
 extra_visible: false
 language: text
-teacher_info: 
 manual_evaluation: false
 choices:
 - value: "...a generic  runner"
@@ -14,3 +13,4 @@ choices:
   checked: true
 - value: "...a library that you must use to build your runners"
   checked: false
+name: Hello mumukit!

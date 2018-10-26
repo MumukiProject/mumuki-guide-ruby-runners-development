@@ -5,7 +5,6 @@ editor: multiple_choice
 type: problem
 extra_visible: false
 language: text
-teacher_info: 
 manual_evaluation: false
 choices:
 - value: "...run code in your technology"
@@ -14,3 +13,4 @@ choices:
   checked: true
 - value: "...run ruby and your runner"
   checked: false
+name: The docker image, part 1
